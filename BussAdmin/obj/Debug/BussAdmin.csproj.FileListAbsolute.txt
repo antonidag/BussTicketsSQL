@@ -1,0 +1,55 @@
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\bin\Debug\BussAdmin.exe.config
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\bin\Debug\BussAdmin.exe
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\bin\Debug\BussAdmin.pdb
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\bin\Debug\Mono.Security.dll
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\bin\Debug\Npgsql.dll
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\bin\Debug\Npgsql.pdb
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\bin\Debug\Npgsql.xml
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\bin\Debug\de\Npgsql.resources.dll
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\bin\Debug\es\Npgsql.resources.dll
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\obj\Debug\MainWindow.g.cs
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\obj\Debug\WindowBooking.g.cs
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\obj\Debug\WindowCreateUser.g.cs
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\obj\Debug\App.g.cs
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\obj\Debug\BussAdmin_MarkupCompile.cache
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\obj\Debug\BussAdmin_MarkupCompile.lref
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\obj\Debug\MainWindow.baml
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\obj\Debug\WindowBooking.baml
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\obj\Debug\WindowCreateUser.baml
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\obj\Debug\BussAdmin.g.resources
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\obj\Debug\BussAdmin.Properties.Resources.resources
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\obj\Debug\BussAdmin.csproj.GenerateResource.Cache
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\obj\Debug\BussAdmin.exe
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\obj\Debug\BussAdmin.pdb
+C:\Users\antonidag\Documents\Visual Studio 2015\Projects\BussAdmin\BussAdmin\obj\Debug\BussAdmin.csprojResolveAssemblyReference.cache
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\bin\Debug\BussAdmin.exe.config
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\bin\Debug\BussAdmin.exe
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\bin\Debug\BussAdmin.pdb
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\bin\Debug\Npgsql.pdb
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\bin\Debug\Npgsql.xml
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\bin\Debug\de\Npgsql.resources.dll
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\bin\Debug\es\Npgsql.resources.dll
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\obj\Debug\BussAdmin.csprojResolveAssemblyReference.cache
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\obj\Debug\MainWindow.g.cs
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\obj\Debug\WindowBooking.g.cs
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\obj\Debug\WindowCreateUser.g.cs
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\obj\Debug\App.g.cs
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\obj\Debug\BussAdmin_MarkupCompile.cache
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\obj\Debug\BussAdmin_MarkupCompile.lref
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\obj\Debug\MainWindow.baml
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\obj\Debug\WindowBooking.baml
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\obj\Debug\WindowCreateUser.baml
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\obj\Debug\BussAdmin.g.resources
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\obj\Debug\BussAdmin.Properties.Resources.resources
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\obj\Debug\BussAdmin.csproj.GenerateResource.Cache
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\obj\Debug\BussAdmin.csproj.CoreCompileInputs.cache
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\obj\Debug\BussAdmin.exe
+C:\Users\antonidag\Desktop\BussAdmin\BussAdmin\obj\Debug\BussAdmin.pdb

@@ -1,0 +1,21 @@
+﻿<Window x:Class="BussAdmin.WindowCreateUser"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BussAdmin"
+        mc:Ignorable="d"
+        Title="WindowCreateUser" Height="254.348" Width="316.957">
+    <Grid>
+        <Label x:Name="label_email" Content="Email:" HorizontalAlignment="Left" Margin="10,11,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="23" Margin="66,14,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="216"/>
+        <Label x:Name="label_Name" Content="Name:" HorizontalAlignment="Left" Margin="10,39,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_Name" HorizontalAlignment="Left" Height="23" Margin="66,42,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="216"/>
+        <Label x:Name="label_Telefon" Content="Telefon:" HorizontalAlignment="Left" Margin="10,67,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_Telefon" HorizontalAlignment="Left" Height="23" Margin="66,70,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="216"/>
+        <Label x:Name="label_Adress" Content="Adress:" HorizontalAlignment="Left" Margin="10,95,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="textBox_Adress" HorizontalAlignment="Left" Height="23" Margin="66,98,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="216"/>
+        <Button x:Name="btn_Create" Content="Create User" HorizontalAlignment="Left" Margin="66,144,0,0" VerticalAlignment="Top" Width="216" Click="btn_Create_Click"/>
+        <Button x:Name="btn_Close" Content="Close" HorizontalAlignment="Left" Margin="66,189,0,0" VerticalAlignment="Top" Width="216" Click="btn_Close_Click"/>
+    </Grid>
+</Window>
